@@ -36,26 +36,19 @@ terminal emulator to use the color palette given below.
 
 ![Palette](images/palette.png)
 
-| colors                                | cterm | gui     |
-|:-------------------------------------:|:-----:|:-------:|
-| ![color0](images/colors/color0.png)   | 0     | #454545 |
-| ![color1](images/colors/color1.png)   | 1     | #dca3a3 |
-| ![color2](images/colors/color2.png)   | 2     | #afc5af |
-| ![color3](images/colors/color3.png)   | 3     | #ffffef |
-| ![color4](images/colors/color4.png)   | 4     | #9eaa00 |
-| ![color5](images/colors/color5.png)   | 5     | #cdbfaf |
-| ![color6](images/colors/color6.png)   | 6     | #a1b5cd |
-| ![color7](images/colors/color7.png)   | 7     | #dedede |
-| ![color8](images/colors/color8.png)   | 8     | #71a3b7 |
-| ![color9](images/colors/color9.png)   | 9     | #f4a45f |
-| ![color10](images/colors/color10.png) | 10    | #95c749 |
-| ![color11](images/colors/color11.png) | 11    | #cdcdc1 |
-| ![color12](images/colors/color12.png) | 12    | #1cc7c9 |
-| ![color13](images/colors/color13.png) | 13    | #cdbfaf |
-| ![color14](images/colors/color14.png) | 14    | #a1b5cd |
-| ![color15](images/colors/color15.png) | 15    | #dedede |
-| ![fg](images/colors/color-fg.png)     | fg    | #d1d1d1 |
-| ![bg](images/colors/color-bg.png)     | bg    | #454545 |
+| colors                         | cterm | gui     |   | colors                         | cterm | gui     |
+|:------------------------------:|:-----:|:-------:|---|:------------------------------:|:-----:|:-------:|
+| ![color0](images/color0.png)   | 0     | #454545 |   | ![color8](images/color8.png)   | 8     | #71a3b7 |
+| ![color1](images/color1.png)   | 1     | #dca3a3 |   | ![color9](images/color9.png)   | 9     | #f4a45f |
+| ![color2](images/color2.png)   | 2     | #afc5af |   | ![color10](images/color10.png) | 10    | #95c749 |
+| ![color3](images/color3.png)   | 3     | #ffffef |   | ![color11](images/color11.png) | 11    | #cdcdc1 |
+| ![color4](images/color4.png)   | 4     | #9eaa00 |   | ![color12](images/color12.png) | 12    | #1cc7c9 |
+| ![color5](images/color5.png)   | 5     | #cdbfaf |   | ![color13](images/color13.png) | 13    | #cdbfaf |
+| ![color6](images/color6.png)   | 6     | #a1b5cd |   | ![color14](images/color14.png) | 14    | #a1b5cd |
+| ![color7](images/color7.png)   | 7     | #dedede |   | ![color15](images/color15.png) | 15    | #dedede |
+|                                |       |         |   |                                |       |         |
+| ![fg](images/color-fg.png)     | fg    | #d1d1d1 |   | ![bg](images/color-bg.png)     | bg    | #454545 |
+
 
 ## Plugins support
 
