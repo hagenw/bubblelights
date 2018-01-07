@@ -128,8 +128,9 @@ hi BufTabLineFill           ctermfg=fg      ctermbg=237     cterm=NONE      guif
 " Menu (e.g. after autocompletion)
 hi Pmenu                    ctermfg=240     ctermbg=221     cterm=NONE      guifg=#585858   guibg=#ffd75f   gui=NONE
 hi PmenuSel                 ctermfg=238     ctermbg=226     cterm=NONE      guifg=#444444   guibg=#ffff00   gui=NONE
-hi PmenuSbar                ctermfg=fg      ctermbg=248     cterm=NONE      guifg=fg        guibg=#a8a8a8   gui=NONE
-hi WildMenu                 ctermfg=238     ctermbg=226     cterm=NONE      guifg=#444444   guibg=#ffff00   gui=NONE
+hi PmenuSbar                ctermfg=NONE    ctermbg=253     cterm=NONE      guifg=NONE      guibg=#dadada   gui=NONE
+hi PmenuThumb               ctermfg=NONE    ctermbg=248     cterm=NONE      guifg=NONE      guibg=#a8a8a8   gui=NONE
+hi WildMenu                 ctermfg=248     ctermbg=226     cterm=NONE      guifg=#444444   guibg=#ffff00   gui=NONE
 
 " Selection
 hi Visual                   ctermfg=238     ctermbg=253     cterm=NONE      guifg=#a8a8a8   guibg=#3a3a3a   gui=NONE
