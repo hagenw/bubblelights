@@ -9,7 +9,9 @@
 " and `bubblegum` (https://github.com/baskerville/bubblegum).
 
 "
-" A good background color for this theme would be 238 (#444444).
+" For vim in the terminal no background color is specified in order to select
+" your default terminal background color. The background should be dark and a
+" good choice for this theme would be 238 (#444444).
 "
 " For a list of the 256 available colors, see
 " https://upload.wikimedia.org/wikipedia/commons/1/15/Xterm_256color_chart.svg
@@ -59,7 +61,7 @@ endif
 " PREFERRED GROUPS
 " (see `:h w18`)
 "
-hi Normal                   ctermfg=253     ctermbg=NONE    cterm=NONE      guifg=#dadada   guibg=NONE      gui=NONE
+hi Normal                   ctermfg=253     ctermbg=NONE    cterm=NONE      guifg=#dadada   guibg=#444444   gui=NONE
 hi Comment                  ctermfg=147     ctermbg=NONE    cterm=NONE      guifg=#afafff   guibg=NONE      gui=NONE
 
 hi Constant                 ctermfg=219     ctermbg=NONE    cterm=NONE      guifg=#ffafff   guibg=NONE      gui=NONE
