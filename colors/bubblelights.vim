@@ -164,8 +164,8 @@ hi SignColumn               ctermfg=244     ctermbg=NONE    cterm=NONE      guif
 hi ColorColumn              ctermfg=NONE    ctermbg=237     cterm=NONE      guifg=NONE      guibg=#3a3a3a   gui=NONE
 
 hi Cursor                   ctermfg=NONE    ctermbg=NONE    cterm=NONE      guifg=#444444   guibg=#d75f87   gui=BOLD
-hi CursorLine               ctermfg=NONE    ctermbg=234     cterm=NONE      guifg=NONE      guibg=#1c1c1c   gui=NONE
-hi CursorColumn             ctermfg=NONE    ctermbg=234     cterm=NONE      guifg=NONE      guibg=#1c1c1c   gui=NONE
+hi CursorLine               ctermfg=NONE    ctermbg=237     cterm=NONE      guifg=NONE      guibg=#3a3a3a   gui=NONE
+hi CursorColumn             ctermfg=NONE    ctermbg=237     cterm=NONE      guifg=NONE      guibg=#3a3a3a   gui=NONE
 
 hi vimCommentString         ctermfg=147     ctermbg=NONE    cterm=NONE      guifg=#afafff   guibg=NONE      gui=NONE
 
