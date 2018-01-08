@@ -116,13 +116,13 @@ hi StatusLine               ctermfg=15      ctermbg=241     cterm=BOLD      guif
 hi StatusLineNC             ctermfg=238     ctermbg=241     cterm=NONE      guifg=#444444   guibg=#4e4e4e   gui=NONE
 
 hi TabLine                  ctermfg=fg      ctermbg=237     cterm=NONE      guifg=fg        guibg=#3a3a3a   gui=NONE
-hi TabLineSel               ctermfg=250     ctermbg=238     cterm=BOLD      guifg=#a8a8a8   guibg=#444444   gui=NONE
+hi TabLineSel               ctermfg=250     ctermbg=NONE    cterm=BOLD      guifg=#a8a8a8   guibg=#444444   gui=NONE
 hi TabLineFill              ctermfg=fg      ctermbg=237     cterm=NONE      guifg=fg        guibg=#3a3a3a   gui=NONE
 
 " Buftabline plugin
 " https://github.com/ap/vim-buftabline
 " Alternative color for BufTabLineCurrent might be 109
-hi BufTabLineCurrent        ctermfg=250     ctermbg=238     cterm=BOLD      guifg=#a8a8a8   guibg=#444444   gui=NONE
+hi BufTabLineCurrent        ctermfg=250     ctermbg=NONE    cterm=BOLD      guifg=#a8a8a8   guibg=#444444   gui=NONE
 hi BufTabLineActive         ctermfg=fg      ctermbg=237     cterm=NONE      guifg=fg        guibg=#3a3a3a   gui=NONE
 hi BufTabLineHidden         ctermfg=248     ctermbg=237     cterm=NONE      guifg=#a8a8a8   guibg=#3a3a3a   gui=NONE
 hi BufTabLineFill           ctermfg=fg      ctermbg=237     cterm=NONE      guifg=fg        guibg=#3a3a3a   gui=NONE
