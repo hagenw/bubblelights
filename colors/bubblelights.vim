@@ -163,7 +163,7 @@ hi FoldColumn               ctermfg=244     ctermbg=NONE    cterm=NONE      guif
 hi SignColumn               ctermfg=244     ctermbg=NONE    cterm=NONE      guifg=#808080   guibg=NONE      gui=NONE
 hi ColorColumn              ctermfg=NONE    ctermbg=237     cterm=NONE      guifg=NONE      guibg=#3a3a3a   gui=NONE
 
-hi Cursor                   ctermfg=0       ctermbg=2       cterm=BOLD      guifg=#000000   guibg=#00cd00   gui=BOLD
+hi Cursor                   ctermfg=NONE    ctermbg=NONE    cterm=NONE      guifg=#444444   guibg=#d75f87   gui=BOLD
 hi CursorLine               ctermfg=NONE    ctermbg=234     cterm=NONE      guifg=NONE      guibg=#1c1c1c   gui=NONE
 hi CursorColumn             ctermfg=NONE    ctermbg=234     cterm=NONE      guifg=NONE      guibg=#1c1c1c   gui=NONE
 
