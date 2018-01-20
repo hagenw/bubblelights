@@ -55,3 +55,4 @@ terminal emulator to use the color palette given below.
 Bubblelights provides color definitions for the following plugins:
 
 * [Buftabline](https://github.com/ap/vim-buftabline)
+* [ctrlp](https://github.com/ctrlpvim/ctrlp.vim)

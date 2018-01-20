@@ -177,6 +177,11 @@ hi SpellLocal               ctermfg=179     ctermbg=NONE    cterm=UNDERLINE guis
 hi Conceal                  ctermfg=221     ctermbg=NONE    cterm=NONE      guifg=#ffd75f   guibg=NONE      gui=NONE
 hi ShowMarksHLl             ctermfg=227     ctermbg=28      cterm=NONE      guifg=#ffff5f   guibg=#008700   gui=NONE
 
+" CtrlP (https://github.com/ctrlpvim/ctrlp.vim)
+hi CtrlPNoEntries           ctermfg=fg      ctermbg=168     cterm=NONE      guifg=fg        guibg=#d75f87   gui=NONE
+hi CtrlPMatch               ctermfg=168     ctermbg=NONE    cterm=NONE      guifg=#d75f87   guibg=NONE      gui=NONE
+hi CtrlPLinePre             ctermfg=244     ctermbg=NONE    cterm=NONE      guifg=#808080   guibg=NONE      gui=NONE
+
 " diff
 hi DiffAdd                  ctermfg=119     ctermbg=22      cterm=NONE      guifg=#87ff5f   guibg=#005f00   gui=NONE
 hi DiffChange               ctermfg=NONE    ctermbg=241     cterm=NONE      guifg=NONE      guibg=#626262   gui=NONE
