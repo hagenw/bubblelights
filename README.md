@@ -14,7 +14,7 @@ Use a plugin manager of your choice to install it ([Pathogen], [Vundle], ...),
 or simple copy `bubblelighgts.vim` into `~/.vimrc/colors`:
 
 ```bash
-wget https://github.com/hagenw/bubblelights/raw/master/colors/bubblelights.vim \
+wget https://github.com/hagenw/bubblelights/raw/main/colors/bubblelights.vim \
      -O ~/.vimrc/colors/bubblelights.vim
 ```
 
