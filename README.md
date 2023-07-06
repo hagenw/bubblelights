@@ -10,19 +10,21 @@ A colortheme for vim based on [bubblegum] and [southernlights].
 
 ## Installation
 
-Use a plugin manager of your choice to install it ([Pathogen], [Vundle], ...),
-or simple copy `bubblelighgts.vim` into `~/.vim/colors`:
+Add it as a package to vim
+(see `:help packages`)
+with:
 
 ```bash
+mkdir -p ~/.vim/pack/colors/opt/bubblelights/colors/
 wget https://github.com/hagenw/bubblelights/raw/main/colors/bubblelights.vim \
-     -O ~/.vim/colors/bubblelights.vim
+     -O ~/.vim/pack/colors/opt/bubblelights/colors/bubblelights.vim
 ```
 
-[Pathogen]: (https://github.com/tpope/vim-pathogen)
-[Vundle]: (https://github.com/VundleVim/Vundle.vim)
-
 Then enable the colorscheme in your `~/.vimrc` with the following command:
-`colorscheme bubblelights`.
+
+```vim
+colorscheme bubblelights
+```
 
 If you only use GVim, you're done! If you use terminal Vim, read on...
 
